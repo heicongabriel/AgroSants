@@ -37,16 +37,16 @@ em strong {
 
 .benefícios {
     background: #FFFFFF;
-    padding: 5px;
+    padding: 20px;
 }
 
 ul {
     display: inline-block;
     vertical-align: top;
-    width: 5%;
-    margin-right: 5%;
+    width: 15%;
+    margin-right: 10%;
 }
 
 .imagembeneficios {
-    width: 5%;
+    width: 15%;
 }
